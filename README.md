@@ -1,4 +1,4 @@
-**DATA ANALYSIS PROJECT: Disease Symptoms And Patients' Profile**
+**DATA ANALYSIS PROJECT: Disease Symptoms And Patient Profile**
 
 
 **PROJECT OBJECTIVE**
